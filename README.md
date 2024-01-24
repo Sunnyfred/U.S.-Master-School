@@ -30,7 +30,6 @@
 |Ohio State University (Moritz)| 43 | 22 |		IELTS (or IELTS Indicator): 6.5  | have a first law degree from a foreign law school (LLB, JD or the equivalent) | $50 |Columbus, Ohio| https://moritzlaw.osu.edu/ |
 |University of North Carolina--Chapel Hill| 22 | 22 |	?? | No certain major is required. But may need take Law School Admission Test (LSAT) test before apply | $75 |Chapel Hill, North Carolina| https://law.unc.edu/ |
 |University of Wisconsin--Madison| 35 | 40 |	7.0 or higher is recommended | first degree in law (such as an LL.B.) | $60 |Madison, Wisconsin| https://law.wisc.edu/ |
-|Villanova University| 67 | 43 |		6.5 with no individual score below 6.0 | first degree in law (such as an LL.B.) | $50 |Philadelphia, Pennsylvania| https://law.temple.edu/ |
 |Temple University| 89 | 54 |		6.5 with no individual score below 6.0 | first degree in law (such as an LL.B.) | $50 |Philadelphia, Pennsylvania| https://law.temple.edu/ |
 
 
