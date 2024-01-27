@@ -32,6 +32,10 @@
 |University of Wisconsin--Madison| 35 | 40 |	7.0 or higher is recommended | first degree in law (such as an LL.B.) | $60 |Madison, Wisconsin| https://law.wisc.edu/ |
 |Temple University| 89 | 54 |		6.5 with no individual score below 6.0 | first degree in law (such as an LL.B.) | $50 |Philadelphia, Pennsylvania| https://law.temple.edu/ |
 |Duquesne University| 152 | 89 |		?? | Duquesne University offers a Master of Laws "LL.M." degree for candidates who have earned a first degree in law (for example LL.B.) outside the United States. | ?? |Pittsburgh, Pennsylvania| https://www.duq.edu/academics/colleges-and-schools/law/index.php |
+|Case West Reserve University| 53 | 80 |		6.5 or above | accept students that do not have an undergraduate law degree | ?? |Cleveland, OH| http://case.edu/law/ |
+|Drexel University| 98 | 80 |		7.5 or above | first degree in law (such as an LL.B.) | $0 | Philadelphia, PA | http://drexel.edu/law/ |
+|Pennsylvania State University| 60 | 80 |		6.5 or above | not mentioned, may not need a first law degree | $75 | University Park, PA | http://pennstatelaw.psu.edu/admissions/llm-admissions |
+|University of Pittsburgh| 64 | 89 |		?? | seems only acccept JD application | ?? |Pittsburgh, Pennsylvania| https://www.duq.edu/academics/colleges-and-schools/law/index.php |
 
 # LLM & Other Law Programs
 
